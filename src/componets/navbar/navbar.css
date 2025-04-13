@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.transparent-nav .site-navigation {
+    background: rgba(0, 0, 0, 0.1);
+    position: absolute;
+    top: auto;
+    left: 0;
+    right: 0;
+    z-index: 9;
+}

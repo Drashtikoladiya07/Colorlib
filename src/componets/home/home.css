@@ -1,0 +1,231 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.img1 {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(../../assets/img/bg_1.jpg);
+    height: 700px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.img2 {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(../../assets/img/bg_2.jpg.webp);
+    height: 700px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.img3 {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(../../assets/img/bg_3.jpg.webp);
+    height: 700px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.aos-animate h2 {
+    font-size: 4rem;
+    font-weight: normal;
+}
+
+input {
+    border: 0;
+    outline: 0;
+    width: 100%;
+}
+
+.pro {
+    position: relative;
+    bottom: 10rem;
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 0px 5px;
+}
+
+.font {
+    font-family: '"Nunito Sans", Arial, sans-serif';
+}
+
+.text a {
+    color: #5ea51d;
+    background-color: #f7f7f7;
+}
+
+.text a:hover {
+    background-color: #5ea51d;
+    color: white;
+}
+
+.time img {
+    width: 2rem;
+}
+
+.po {
+    position: relative;
+    top: -2.5rem;
+    right: -1rem;
+}
+
+.box {
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 0px 5px;
+}
+
+.box:hover {
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 0px 10px;
+}
+
+.text a img {
+    height: 15rem;
+    width: 35rem;
+}
+
+.bg-img {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../../assets/img/bg_4.jpg.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 40rem;
+    width: 100rem;
+}
+
+.bgimg {
+    background-image: linear-gradient(rgba(0, 1000, 0, 0.4), rgba(0, 1000, 0, 0.4)), url(../../assets/img/bg_4.jpg.webp);
+    opacity: .99;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 12rem;
+    width: 90rem;
+}
+
+.image img {
+    height: 5rem;
+    width: 5rem;
+}
+
+.boxes {
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 0px 5px;
+}
+
+.in a i:hover {
+    background-color: black;
+}
+
+.team {
+    position: relative;
+    bottom: -10rem;
+}
+
+.photo img {
+    height: 20rem;
+    width: 30rem;
+}
+
+.texte {
+    color: black;
+    background-color: #f3f5f1;
+}
+
+.texte:hover {
+    color: white;
+    background-color: #5ea51d;
+}
+
+.blog {
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 0px 5px;
+}
+
+.blog a h5 {
+    color: black;
+}
+
+.blog a h5:hover {
+    color: #5ea51d;
+}
+
+.room1 {
+    background-image: url(../../assets/img/gallery-1.jpg.webp);
+    height: 17rem;
+    width: 15.07rem;
+    background-size: cover;
+}
+
+.room2 {
+    background-image: url(../../assets/img/gallery-2.jpg.webp);
+    height: 17rem;
+    width: 15.07rem;
+    background-size: cover;
+}
+
+.room3 {
+    background-image: url(../../assets/img/gallery-3.jpg.webp);
+    height: 17rem;
+    width: 15.07rem;
+    background-size: cover;
+}
+
+.room4 {
+    background-image: url(../../assets/img/gallery-4.jpg.webp);
+    height: 17rem;
+    width: 15.07rem;
+    background-size: cover;
+}
+
+.room5 {
+    background-image: url(../../assets/img/gallery-5.jpg.webp);
+    height: 17rem;
+    width: 15.07rem;
+    background-size: cover;
+}
+
+.room6 {
+    background-image: url(../../assets/img/gallery-6.jpg.webp);
+    height: 17rem;
+    width: 15rem;
+    background-size: cover;
+}
+
+.aa a {
+    color: #999999;
+}
+
+.aa a:hover {
+    color: #5ea51d;
+}
+
+.bx h5 {
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 0px 5px;
+    background-color: white;
+    color: black;
+}
+
+.bx h5:hover {
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 0px 5px;
+    background-color: #5ea51d;
+    color: white;
+}
+
+.contact {
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 0px 5px;
+}
+
+.swiper {
+    width: 100%;
+    height: 100%;
+}
+
+.swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.swiper-slide img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
